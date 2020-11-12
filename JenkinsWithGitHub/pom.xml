@@ -25,7 +25,7 @@
 		    <version>3.0.0-M5</version>
 		    <configuration>
 		    <suiteXmlFiles>
-		    <suiteXmlFile> C:\Users\Yogi\workspace\MavenJankinsDemo\testng.xml</suiteXmlFile>
+		    <suiteXmlFile> C:\Users\Yogi\JenkinsWithGit\JenkinsWithGitHub\testng.xml</suiteXmlFile>
 		    </suiteXmlFiles>
 		    </configuration>
 		</plugin>
